@@ -2,6 +2,7 @@
 	"name": "react-native-redux-log-monitor",
 	"version": "0.0.1",
   "description": "The redux devtools log monitor for react native",
+  "main": "src/index.js",
 	"scripts": {
 		"lint": "eslint src",
 		"flow": "flow",
